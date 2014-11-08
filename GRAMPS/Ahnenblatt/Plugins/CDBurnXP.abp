@@ -1,0 +1,28 @@
+[plugin]
+
+Version=2.52
+
+WinVer=5.1
+
+FileMustBeOpened=1
+
+Text=Burn CD [Windows]
+Text.1031=CD brennen [Windows]
+Text.1036=Gravure CD [Windows]
+Text.1045=Ahnenblatt nagrywa CD [Windows]
+
+MustExist.1=%cdburning%
+MustExist.2=%abpluginpath%\CDBurnXP.inf
+MustExist.3=%abpluginpath%\CDBurnXP.ico
+
+Help=%abpluginpath%\CDBurnXP.htm
+Help.1031=%abpluginpath%\CDBurnXP-German.htm
+Help.1036=%abpluginpath%\CDBurnXP-French.htm
+Help.1045=%abpluginpath%\CDBurnXP-Polish.htm
+
+1=$SAVEAS(WEBSITE,%cdburning%\index.htm)
+2=$SAVEAS(GEDCOM+PICS,%cdburning%\family.ged)
+3=$SAVEAS(AHNENBLATT+PICS,%cdburning%\family.ahn)
+4=$COPY(%abpluginpath%\CDBurnXP.inf,%cdburning%\autorun.inf)
+5=$COPY(%abpluginpath%\CDBurnXP.ico,%cdburning%\ahnblatt.ico)
+6=%cdburning%

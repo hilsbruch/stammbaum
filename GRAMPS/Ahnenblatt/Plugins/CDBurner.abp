@@ -1,0 +1,28 @@
+[plugin]
+
+Version=2.52
+
+WinVer=5.1
+
+FileMustBeOpened=1
+
+Text=Burn CD
+Text.1031=CD brennen
+Text.1036=Gravure CD
+Text.1045=Ahnenblatt nagrywa CD
+
+MustExist.1=%abpluginpath%\CDBurner.inf
+MustExist.2=%abpluginpath%\CDBurner.ico
+
+Help=%abpluginpath%\CDBurner.htm
+Help=.1031%abpluginpath%\CDBurner-German.htm
+Help.1036=%abpluginpath%\CDBurner-French.htm
+Help.1045=%abpluginpath%\CDBurner-Polish.htm
+
+1=$MAKEDIR(%temp%\Ahnenblatt-CD)
+2=$SAVEAS(WEBSITE,%temp%\Ahnenblatt-CD\index.htm)
+3=$SAVEAS(GEDCOM+PICS,%temp%\Ahnenblatt-CD\family.ged)
+4=$SAVEAS(AHNENBLATT+PICS,%temp%\Ahnenblatt-CD\family.ahn)
+5=$COPY(%abpluginpath%\CDBurner.inf,%temp%\Ahnenblatt-CD\autorun.inf)
+6=$COPY(%abpluginpath%\CDBurner.ico,%temp%\Ahnenblatt-CD\ahnblatt.ico)
+7=%temp%\Ahnenblatt-CD

@@ -1,0 +1,850 @@
+0 HEAD
+1 SOUR AHN
+2 VERS 2.53
+2 NAME Ahnenblatt
+2 CORP Dirk Boettcher
+1 DEST ANSTFILE
+1 DATE 26 OCT 2008
+2 TIME 16:54:32
+1 SUBM @SUBM@
+1 FILE Untitled_01.ged
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR ANSI
+2 VERS 1252
+1 PLAC
+2 FORM street, postal_code, city, region, country
+1 _NAVM 2
+2 _NAVI @I66@
+0 @SUBM@ SUBM
+1 NAME Not Provided
+1 ADDR Not Provided
+2 CONT Not Provided
+0 @I1@ INDI
+1 NAME Paul /*/
+1 SEX M
+1 FAMS @F1@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Paul_Ilse3.jpg
+0 @I2@ INDI
+1 NAME Paula /Baumeister/
+1 SEX F
+1 BIRT
+2 DATE 15 MAY 2008
+2 PLAC Haltern
+1 FAMC @F14@
+0 @I3@ INDI
+1 NAME Theodor /Finanzbeamter Ruzicka/
+1 SEX M
+1 FAMS @F2@
+0 @I4@ INDI
+1 NAME Anna /Follner Geb. Kern/
+1 SEX F
+1 BIRT
+2 DATE 1892
+1 DEAT
+2 DATE 12 JUL 1932
+1 FAMS @F3@
+1 FAMC @F10@
+0 @I5@ INDI
+1 NAME Anni /Follner/
+1 SEX F
+1 FAMS @F4@
+0 @I6@ INDI
+1 NAME Ernst /Follner/
+1 SEX M
+1 FAMS @F4@
+1 FAMC @F3@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\ErnstAnniFollner1.jpg
+0 @I7@ INDI
+1 NAME Fritz /Follner/
+1 SEX M
+1 FAMS @F3@
+0 @I8@ INDI
+1 NAME Ignaz /Follner/
+1 SEX M
+1 FAMC @F3@
+0 @I9@ INDI
+1 NAME Otto /Follner/
+1 SEX M
+1 FAMC @F3@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\FollnerOtto1.jpg
+0 @I10@ INDI
+1 NAME Johann /Fronober/
+1 SEX M
+1 BIRT
+2 DATE 16 MAY 1922
+1 DEAT
+2 DATE vermisst
+1 FAMC @F5@
+0 @I11@ INDI
+1 NAME Johann /Fronober/
+1 SEX M
+1 BIRT
+2 DATE 6 SEP 1889
+1 DEAT
+2 DATE 9 JUL 1974
+1 OCCU Landwirt
+1 FAMS @F5@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\JohannRosinaFronober1.jpg
+0 @I12@ INDI
+1 NAME Sophie /Fronober/
+1 SEX F
+1 BIRT
+2 DATE 17 MAY 1928
+2 PLAC Groß-Steurowitz
+1 OCCU Hausfrau
+1 FAMS @F6@
+1 FAMC @F5@
+0 @I13@ INDI
+1 NAME Stephan /Fronober/
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1923
+1 DEAT
+2 DATE 19 AUG 1942
+1 FAMC @F5@
+0 @I14@ INDI
+1 NAME Magarethe /Hardt/
+1 SEX F
+1 FAMS @F7@
+0 @I15@ INDI
+1 NAME Wallace /Henson/
+1 SEX M
+0 @I16@ INDI
+1 NAME Bettina /Holzinger/
+1 SEX F
+1 FAMS @F8@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Bethina1.jpg
+0 @I17@ INDI
+1 NAME Kathreen /Hunt/
+1 SEX F
+1 FAMC @F28@
+0 @I18@ INDI
+1 NAME Rudolf /Kamchen/
+1 SEX M
+1 FAMS @F9@
+0 @I19@ INDI
+1 NAME Rosalia /Kern Geb. Bader/
+1 SEX F
+1 FAMS @F10@
+0 @I20@ INDI
+1 NAME Elisabeth /Kern/
+1 SEX F
+1 FAMC @F10@
+0 @I21@ INDI
+1 NAME Ellen /Kern/
+1 SEX F
+1 FAMS @F11@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\KarlEllenKern1.jpg
+0 @I22@ INDI
+1 NAME Frank /Kern/
+1 SEX M
+1 FAMC @F11@
+0 @I23@ INDI
+1 NAME Franz /Kern/
+1 SEX M
+1 FAMS @F12@
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\FranzKernBruderAnastasia1.jpg
+0 @I24@ INDI
+1 NAME Heather /Kern/
+1 SEX F
+1 FAMC @F11@
+0 @I25@ INDI
+1 NAME Ignaz /Kern/
+1 SEX M
+1 OCCU Weinhauer
+1 FAMS @F10@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\IgnazKern1.jpg
+0 @I26@ INDI
+1 NAME Julie /Kern/
+1 SEX F
+1 FAMC @F10@
+0 @I27@ INDI
+1 NAME Karl /Kern/
+1 SEX M
+1 FAMS @F11@
+1 FAMC @F12@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\KarlEllenKern1.jpg
+0 @I28@ INDI
+1 NAME Katharina,Kähte /Kern/
+1 SEX F
+1 BIRT
+2 DATE 11 FEB 1897
+2 PLAC Groß-Steurowitz
+1 DEAT
+2 DATE 2 MAY 1981
+2 PLAC Regensburg
+1 OCCU Büroangestellte
+1 FAMS @F13@
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\KernSchwestern1.jpg
+0 @I29@ INDI
+1 NAME Minerva /Kern/
+1 SEX F
+1 FAMS @F28@
+1 FAMC @F12@
+0 @I30@ INDI
+1 NAME Olympia /Kern/
+1 SEX F
+1 FAMS @F12@
+0 @I31@ INDI
+1 NAME Rosina Rose Tante /Kern/
+1 SEX F
+1 BIRT
+2 DATE 12 MAR 1895
+2 PLAC Groß-Steurowitz
+1 DEAT
+2 DATE 17 OCT 1977
+2 PLAC Regenstauf
+1 FAMS @F5@
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\JohannRosinaFronober1.jpg
+0 @I32@ INDI
+1 NAME Gary /Magonigle/
+1 SEX M
+0 @I33@ INDI
+1 NAME Baumeister /Markus/
+1 SEX M
+1 FAMS @F14@
+0 @I34@ INDI
+1 NAME Alma /Mey/
+1 SEX F
+1 BIRT
+2 DATE 3 SEP 1907
+1 DEAT
+2 DATE 23 SEP 1951
+1 OCCU Hausfrau
+1 FAMS @F15@
+1 FAMS @F32@
+1 FAMC @F29@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Mama_Alma2.jpg
+0 @I35@ INDI
+1 NAME Ida /Mey/
+1 SEX F
+1 FAMS @F29@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Oma_Mey1.jpg
+0 @I36@ INDI
+1 NAME Ilse /Mey/
+1 SEX F
+1 FAMS @F1@
+1 FAMC @F32@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Ilse3.jpg
+0 @I37@ INDI
+1 NAME Wilhelm /Mey/
+1 SEX M
+1 BIRT
+2 DATE 18 JUL 1938
+2 PLAC Eisenach
+1 OCCU Elektro Meister
+1 FAMC @F32@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Willy1.jpg
+0 @I38@ INDI
+1 NAME Christel /Müller/
+1 SEX F
+1 FAMS @F16@
+0 @I39@ INDI
+1 NAME Daniela /Müller/
+1 SEX F
+1 FAMC @F16@
+0 @I40@ INDI
+1 NAME Hans /Müller/
+1 SEX M
+1 FAMS @F6@
+0 @I41@ INDI
+1 NAME Herbert /Müller/
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1948
+1 DEAT
+2 DATE 31 MAY 1970
+2 PLAC Bundeswehr
+1 FAMC @F6@
+0 @I42@ INDI
+1 NAME Manfred /Müller/
+1 SEX M
+1 BIRT
+2 DATE 26 JAN 1950
+1 FAMS @F16@
+1 FAMC @F6@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\DanielaManfredWolfgangMüller1.jpg
+0 @I43@ INDI
+1 NAME Richard /Müller/
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1957
+1 FAMC @F6@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Richard_FAM1.jpg
+0 @I44@ INDI
+1 NAME Wolfgang /Müller/
+1 SEX M
+1 BIRT
+2 DATE 30 JUL 1967
+1 FAMC @F6@
+0 @I45@ INDI
+1 NAME Otmar /Prohaska/
+1 SEX M
+1 DEAT
+2 PLAC Regensburg
+1 FAMS @F13@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\OthmarKätheProchaska1.jpg
+0 @I46@ INDI
+1 NAME Alexandra /Rüggeberg/
+1 SEX F
+1 BIRT
+2 DATE 19 JUL 1978
+2 PLAC Dorsten
+1 OCCU Schlosser
+1 FAMS @F14@
+1 FAMC @F20@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\P1000819.JPG
+0 @I47@ INDI
+1 NAME Ernst /Rüggeberg/
+1 SEX M
+1 FAMS @F7@
+0 @I48@ INDI
+1 NAME Gustav /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 3 OCT 1910
+2 PLAC Barmen
+1 OCCU Schlosser
+1 FAMS @F15@
+1 FAMC @F7@
+0 @I49@ INDI
+1 NAME Heinz /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 13 APR 1942
+2 PLAC Eisenach
+1 OCCU Betriebsleiter
+1 FAMS @F17@
+1 FAMC @F15@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Heinz.jpg
+0 @I50@ INDI
+1 NAME Jochen /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 7 MAY 1946
+2 PLAC Eisenach
+1 OCCU Kaufmann
+1 FAMC @F15@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Jochen.jpg
+0 @I51@ INDI
+1 NAME Jürgen /Rüggeberg/
+1 SEX M
+1 FAMC @F32@
+0 @I52@ INDI
+1 NAME Jürgen /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 4 JUL 1967
+2 PLAC Dorsten
+1 OCCU Mechaniker
+1 FAMC @F20@
+0 @I53@ INDI
+1 NAME Kathrin /Rüggeberg/
+1 SEX F
+1 BIRT
+2 DATE 1 MAY 1998
+2 PLAC Darmstadt
+1 FAMC @F8@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Kathrin1.jpg
+0 @I54@ INDI
+1 NAME Lisa /Rüggeberg/
+1 SEX F
+1 BIRT
+2 DATE 15 SEP 2000
+2 PLAC Darmstadt
+1 FAMC @F8@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Lisa.jpg
+0 @I55@ INDI
+1 NAME Monika /Rüggeberg/
+1 SEX F
+1 BIRT
+2 DATE 22 JUL 1964
+2 PLAC Darmstadt
+1 OCCU Ing. Informatik
+1 FAMS @F18@
+1 FAMC @F17@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Monika.jpg
+0 @I56@ INDI
+1 NAME Richard /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 22 NOV 1994
+2 PLAC Dorsten
+1 FAMC @F19@
+0 @I57@ INDI
+1 NAME Richard /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1970
+2 PLAC Dorsten
+1 OCCU Straßenbauer
+1 FAMS @F19@
+1 FAMC @F20@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Richard.jpg
+0 @I58@ INDI
+1 NAME Rolf /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 5 MAR 1944
+2 PLAC Eisenach
+1 OCCU Kaufmann
+1 FAMS @F20@
+1 FAMC @F15@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\SIMG0023_small.jpg
+0 @I59@ INDI
+1 NAME Tania /Rüggeberg/
+1 SEX F
+1 FAMS @F19@
+0 @I60@ INDI
+1 NAME Thomas /Rüggeberg/
+1 SEX M
+1 BIRT
+2 DATE 4 JAN 1963
+2 PLAC Darmstadt
+1 OCCU Dpl. Ing. Elektrik
+1 FAMS @F8@
+1 FAMC @F17@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Thomas.jpg
+0 @I61@ INDI
+1 NAME Ursula /Rüggeberg/
+1 SEX F
+1 BIRT
+2 DATE 20 MAY 1949
+2 PLAC Dorsten
+1 DEAT
+2 DATE 30 JUN 2002
+2 PLAC Marl
+1 OCCU Hausfrau
+1 FAMS @F20@
+1 FAMC @F33@
+0 @I62@ INDI
+1 NAME Martha /Rüggeberg,Sigl/
+1 SEX F
+1 BIRT
+2 DATE 21 OCT 1938
+2 PLAC Groß-Steurowitz
+1 DEAT
+2 DATE 26 FEB 1985
+1 OCCU Schneiderin
+1 FAMS @F17@
+1 FAMC @F23@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\MarthaMoniEmilOma1.jpg
+0 @I63@ INDI
+1 NAME Agnes /Ruzicka/
+1 SEX F
+1 BIRT
+2 DATE 8 JAN 1924
+1 FAMS @F9@
+1 FAMS @F21@
+1 FAMC @F23@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Agnes.jpg
+0 @I64@ INDI
+1 NAME Otto /Ruzicka/
+1 SEX M
+1 BIRT
+2 PLAC Wien
+1 DEAT
+2 PLAC Offenbach
+1 OCCU Finanzbeamter
+1 FAMS @F21@
+1 FAMS @F22@
+1 FAMC @F2@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Otto2.jpg
+0 @I65@ INDI
+1 NAME Robert /Ruzicka/
+1 SEX M
+1 FAMC @F22@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\RobertRuzicka1.jpg
+0 @I66@ INDI
+1 NAME Elfriede, Friedel /Ruzicka,Prochaska/
+1 SEX F
+1 FAMS @F22@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\OttoElfriedeRuzicka1.jpg
+0 @I67@ INDI
+1 NAME Felix /Schulz/
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1997
+2 PLAC Darmstadt
+1 OCCU Schüler
+1 FAMC @F18@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Felix3.jpg
+0 @I68@ INDI
+1 NAME Hans-Jürgen /Schulz/
+1 SEX M
+1 FAMS @F18@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Hans-Jürgen.jpg
+0 @I69@ INDI
+1 NAME Tobias /Schulz/
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1993
+2 PLAC Darmstadt
+1 OCCU Schüler
+1 FAMC @F18@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Tobias4.jpg
+0 @I70@ INDI
+1 NAME Agnes /Sigel geb. Sigl/
+1 SEX F
+1 FAMC @F24@
+0 @I71@ INDI
+1 NAME Anastasia /Sigl Geb. Kern/
+1 SEX F
+1 BIRT
+2 DATE 18 APR 1893
+2 PLAC Groß-Steurowitz
+1 DEAT
+2 DATE 22 OCT 1970
+2 PLAC Darmstadt
+1 OCCU Hausfrau
+1 FAMS @F23@
+1 FAMC @F10@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\AnastasiaSigl1.jpg
+0 @I72@ INDI
+1 NAME Pauline /Sigl Geb. Schwarz/
+1 SEX F
+1 FAMS @F24@
+1 FAMS @F34@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\JakobPaulineSiglGroßeltern1.jpg
+0 @I73@ INDI
+1 NAME Pauline /Sigl geb. Schwarz/
+1 SEX F
+1 FAMS @F25@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\JakobPaulineSiglGroßeltern1.jpg
+0 @I74@ INDI
+1 NAME Emil /Sigl/
+1 SEX M
+1 BIRT
+2 DATE 25 DEC 1925
+1 OCCU Schuster
+1 FAMS @F26@
+1 FAMC @F23@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Emil1.jpg
+0 @I75@ INDI
+1 NAME Jakob /Sigl/
+1 SEX M
+1 FAMS @F24@
+1 FAMS @F25@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\JakobPaulineSiglGroßeltern1.jpg
+0 @I76@ INDI
+1 NAME Ludmilla /Sigl/
+1 SEX F
+1 FAMS @F27@
+1 FAMC @F34@
+0 @I77@ INDI
+1 NAME Maria /Sigl/
+1 SEX F
+1 BIRT
+2 DATE 1 APR 1930
+1 OCCU Hausfrau
+1 FAMS @F26@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Maria1.jpg
+0 @I78@ INDI
+1 NAME Peter /Sigl/
+1 SEX M
+1 FAMS @F27@
+1 FAMC @F24@
+0 @I79@ INDI
+1 NAME Thekla /Sigl/
+1 SEX F
+1 BIRT
+2 DATE 22 SEP 1885
+1 DEAT
+2 DATE 16 MAR 1968
+1 FAMC @F24@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Thekla_SiglSchwestOPA1.jpg
+0 @I80@ INDI
+1 NAME Wilhelm /Sigl/
+1 SEX M
+1 BIRT
+2 DATE 1 APR 1894
+2 PLAC Groß-Steurowitz
+1 DEAT
+2 DATE 15 FEB 1966
+2 PLAC Darmstadt
+1 OCCU Landwirt
+1 FAMS @F23@
+1 FAMC @F25@
+1 OBJE
+2 FORM jpg
+2 FILE C:\Eigene Bilder\AhnenBlatt_Bilder\Sigl_Wilhelm1.jpg
+0 @I81@ INDI
+1 NAME Wilhelm /Sigl/
+1 SEX M
+1 BIRT
+2 DATE 1928
+1 FAMC @F23@
+0 @I82@ INDI
+1 NAME Richard /Streiff/
+1 SEX M
+1 BIRT
+2 DATE 25 APR 1912
+1 FAMS @F33@
+0 @I83@ INDI
+1 NAME Maria /Thiel/
+1 SEX F
+1 FAMS @F2@
+0 @F1@ FAM
+1 HUSB @I1@
+1 WIFE @I36@
+1 MARR Y
+0 @F2@ FAM
+1 HUSB @I3@
+1 WIFE @I83@
+1 CHIL @I64@
+1 MARR Y
+0 @F3@ FAM
+1 HUSB @I7@
+1 WIFE @I4@
+1 CHIL @I6@
+1 CHIL @I9@
+1 CHIL @I8@
+1 MARR Y
+0 @F4@ FAM
+1 HUSB @I6@
+1 WIFE @I5@
+1 MARR Y
+0 @F5@ FAM
+1 HUSB @I11@
+1 WIFE @I31@
+1 CHIL @I10@
+1 CHIL @I13@
+1 CHIL @I12@
+1 MARR Y
+0 @F6@ FAM
+1 HUSB @I40@
+1 WIFE @I12@
+1 CHIL @I41@
+1 CHIL @I42@
+1 CHIL @I43@
+1 CHIL @I44@
+1 MARR Y
+0 @F7@ FAM
+1 HUSB @I47@
+1 WIFE @I14@
+1 CHIL @I48@
+1 MARR Y
+0 @F8@ FAM
+1 HUSB @I60@
+1 WIFE @I16@
+1 CHIL @I53@
+1 CHIL @I54@
+1 MARR Y
+0 @F9@ FAM
+1 HUSB @I18@
+1 WIFE @I63@
+1 MARR Y
+0 @F10@ FAM
+1 HUSB @I25@
+1 WIFE @I19@
+1 CHIL @I71@
+1 CHIL @I31@
+1 CHIL @I4@
+1 CHIL @I20@
+1 CHIL @I23@
+1 CHIL @I26@
+1 CHIL @I28@
+1 MARR Y
+0 @F11@ FAM
+1 HUSB @I27@
+1 WIFE @I21@
+1 CHIL @I22@
+1 CHIL @I24@
+1 MARR Y
+0 @F12@ FAM
+1 HUSB @I23@
+1 WIFE @I30@
+1 CHIL @I27@
+1 CHIL @I29@
+1 MARR Y
+0 @F13@ FAM
+1 HUSB @I45@
+1 WIFE @I28@
+1 MARR Y
+0 @F14@ FAM
+1 HUSB @I33@
+1 WIFE @I46@
+1 CHIL @I2@
+1 MARR Y
+0 @F15@ FAM
+1 HUSB @I48@
+1 WIFE @I34@
+1 CHIL @I49@
+1 CHIL @I58@
+1 CHIL @I50@
+1 MARR Y
+0 @F16@ FAM
+1 HUSB @I42@
+1 WIFE @I38@
+1 CHIL @I39@
+1 MARR Y
+0 @F17@ FAM
+1 HUSB @I49@
+1 WIFE @I62@
+1 CHIL @I55@
+1 CHIL @I60@
+1 MARR Y
+0 @F18@ FAM
+1 HUSB @I68@
+1 WIFE @I55@
+1 CHIL @I69@
+1 CHIL @I67@
+1 MARR Y
+0 @F19@ FAM
+1 HUSB @I57@
+1 WIFE @I59@
+1 CHIL @I56@
+1 MARR Y
+0 @F20@ FAM
+1 HUSB @I58@
+1 WIFE @I61@
+1 CHIL @I52@
+1 CHIL @I57@
+1 CHIL @I46@
+1 MARR
+2 DATE 18 NOV 1966
+2 PLAC Dorsten
+0 @F21@ FAM
+1 HUSB @I64@
+1 WIFE @I63@
+1 MARR Y
+0 @F22@ FAM
+1 HUSB @I64@
+1 WIFE @I66@
+1 CHIL @I65@
+1 MARR Y
+0 @F23@ FAM
+1 HUSB @I80@
+1 WIFE @I71@
+1 CHIL @I62@
+1 CHIL @I63@
+1 CHIL @I74@
+1 CHIL @I81@
+1 MARR Y
+0 @F24@ FAM
+1 HUSB @I75@
+1 WIFE @I72@
+1 CHIL @I79@
+1 CHIL @I78@
+1 CHIL @I70@
+1 MARR Y
+0 @F25@ FAM
+1 HUSB @I75@
+1 WIFE @I73@
+1 CHIL @I80@
+1 MARR Y
+0 @F26@ FAM
+1 HUSB @I74@
+1 WIFE @I77@
+1 MARR Y
+0 @F27@ FAM
+1 HUSB @I78@
+1 WIFE @I76@
+1 MARR Y
+0 @F28@ FAM
+1 WIFE @I29@
+1 CHIL @I17@
+0 @F29@ FAM
+1 WIFE @I35@
+1 CHIL @I34@
+0 @F32@ FAM
+1 WIFE @I34@
+1 CHIL @I37@
+1 CHIL @I36@
+1 CHIL @I51@
+0 @F33@ FAM
+1 HUSB @I82@
+1 CHIL @I61@
+0 @F34@ FAM
+1 WIFE @I72@
+1 CHIL @I76@
+0 TRLR

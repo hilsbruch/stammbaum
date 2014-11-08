@@ -1,0 +1,317 @@
+/* Copyright 2002 USSearch, Inc. */
+
+/* Tag Classes */
+body {font-size:10pt; font-family:arial,helvetica,sans-serif}
+td {font-size:10pt; font-family:arial,helvetica,sans-serif}
+input {font-size:10pt; font-family:arial,helvetica,sans-serif}
+select {font-size:10pt; font-family:arial,helvetica,sans-serif}
+textarea {font-size:10pt; font-family:arial,helvetica,sans-serif}
+a {font-size:10pt; font-family:arial,helvetica,sans-serif; color:#0000FF}
+
+/* Menu Class */
+.mainMenu {background-color:#669966}
+.mainBorder {background-color:#669966}
+.teaserBorder {background-color:#669966}
+.subMenu {background-color:#e0f0d8}
+.teaserBx {background-color:#e0f0d8}
+.teaserSrchHdr {background-color:#6699cc}
+.teaserSrchBx {background-color:#eff7fe}
+.teaserRslt {background-color:#eff7fe}
+
+/* Text Classes */
+.mainTitle {font-size:12pt; font-weight: bold; color:#003300}
+.prodItem {font-size:12pt; font-weight: bold; color:#336633}
+.subTitle {color:#003300; font-weight: bold}
+.orderTxt {color:#669966; font-weight: bold}
+.smallTxt {font-size:8pt}
+.boldTxt {color:#ffffff; font-weight:bold}
+.whiteBoldTxt {color:#ffffff; font-weight:bold}
+.teaserMenuTxt {color:#ffffff; font-weight:bold}
+.teaserClrTxtTitle {color:#003300; font-weight: bold}
+.teaserClrTxt {color:#336633}
+
+/* Highlight */
+
+a.highlightnav { 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 7pt; 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #3A693A; 
+	}
+
+a.highlightnav:visited {
+	font-family:verdana, arial, helvetica, sans-serif; 
+	font-weight: bold; 
+	font-size: 7pt; 
+	color: #3A693A;
+	text-decoration: none;
+	}
+	
+a.highlightnav:hover {
+	font-family:verdana, arial, helvetica, sans-serif; 
+	font-weight: bold; 
+	font-size: 7pt; 
+	color: #3A693A;
+	text-decoration: underline;
+	}
+	
+a.highlightnav:active:hover { 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 7pt; 
+	font-weight: bold; 
+	color: #3A693A; 
+	text-decoration: underline;
+	}
+	
+.tagLine {
+	font-family:verdana, arial, helvetica, sans-serif; 
+	font-weight: bold; 
+	font-size: 10pt; 
+	font-style: italic;
+	color: #3A693A;
+	}
+	
+.navInactive {
+	font-family:verdana, arial, helvetica, sans-serif; 
+	font-weight: bold; 
+	font-size: 7pt; 
+	color: #3A693A;
+	}
+	
+	
+a.highlightnavblue { 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 7pt; 
+	font-weight: bold; 
+	text-decoration: none; 
+	color: #33699B; 
+	}
+
+a.highlightnavblue:active:hover { 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 7pt; 
+	font-weight: bold; 
+	color: #33699B; 
+	text-decoration: underline;
+	}
+	
+.navInactiveBlue {
+	font-family:verdana, arial, helvetica, sans-serif; 
+	font-weight: bold; 
+	font-size: 7pt; 
+	color: #33699B;
+	}
+	
+.stext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.stextred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #ff0000;
+}
+
+.text,td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #000000;
+}
+
+.bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+.bold12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+.stext8 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #000000;
+}
+
+.tcount{
+	color:#F2F5FA;
+
+}
+
+.small_blue
+{color: #333333; font-size: 7.5pt; font-family:verdana,arial,helvetica,sans-serif;}
+
+.small_grey
+{color: #AEAEAE; font-size: 7.5pt; font-family:verdana,arial,helvetica,sans-serif;}
+
+.small_grey2_bold
+{color: #77819A; font-size: 7.5pt; font-family:verdana,arial,helvetica,sans-serif; font-weight: bold;}
+
+.ala195_header_people_count {
+    color: #FF6600;
+    font-size: 28px;
+    font-family:arial,helvetica,sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.ala195_header_people_title {
+    color: #016EAC;
+    font-size: 28px;
+    font-family:arial,helvetica,sans-serif;
+    font-weight: bold;
+}
+
+.ala195_header_people_found {
+    color: #009beb;
+    font-size: 18px;
+    font-family:arial,helvetica,sans-serif;
+}
+
+.ala195_header_people_data {
+    color: #373737;
+    font-size: 18px;
+    font-family:arial,helvetica,sans-serif;
+    
+
+}
+
+.navy{
+	color:navy;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.blue2{
+	color:blue;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: italic;
+}
+
+.title {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 11pt;
+font-weight: bold;
+color: #002955;
+}
+
+.stext8b {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 8pt;
+font-weight: bold;
+color: #002955;
+}
+
+
+.text_blue {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #003366;
+}
+
+.results {
+  font-size: 10pt;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  vertical-align: top;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+.results_bottom {
+  font-size: 10pt;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: left;
+  vertical-align: top;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:15px;
+  padding-bottom:15px;
+}
+
+a.footer:link 
+{ color: #0000FF; line-height: 1.3em; font-size: 7.5pt; text-decoration: underline; font-weight: none; font-family: Arial, Helvetica, sans-serif; }
+a.footer:active 
+{ color: #0000FF; line-height: 1.3em; font-size: 7.5pt; text-decoration: underline; font-weight: none; font-family: Arial, Helvetica, sans-serif; }
+a.footer:visited 
+{ color: #0000FF; line-height: 1.3em; font-size: 7.5pt; text-decoration: underline; font-weight: none; font-family: Arial, Helvetica, sans-serif; }
+a.footer:hover 
+{ color: #0000FF; line-height: 1.3em; font-size: 7.5pt; text-decoration: underline; font-weight: none; font-family: Arial, Helvetica, sans-serif; }
+
+.small_green
+{color:#004F00;line-height: 1.3em; font-size: 7.5pt; font-weight: none; }
+
+a.bold_green:link
+{ color: #009900; line-height: 1.3em; font-size: 10pt; text-decoration: underline; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+a.bold_green:active
+{ color: #009900; line-height: 1.3em; font-size: 10pt; text-decoration: underline; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+a.bold_green:visited
+{ color: #009900; line-height: 1.3em; font-size: 10pt; text-decoration: underline; font-weight: bold; font-family: Arial, Helvetica, sans-serif; }
+
+
+
+
+
+
+.ala_teaser_age {
+    color:#002955;
+    font-size: 9pt;
+    font-weight: bold;
+    font-family: Arial
+}
+
+.ala_teaser_citystate {
+    color:#002955;
+    font-size: 9pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a.ala_teaser_name:link {
+    color: #0069d6;
+    font-size: 10pt;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.ala_teaser_name:active {
+    color: #0069d6;
+    font-size: 10pt;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a.ala_teaser_name:visited {
+    color: #0069d6;
+    font-size: 10pt;
+    text-decoration: underline;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
+
+
+
+/*.bold_green {*/
+    /*color:#339933;*/
+    /*/*line-height: 1.3em; */
+    /*font-size: 9pt;*/
+    /*font-weight: bold; }*/
+
